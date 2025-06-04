@@ -13,43 +13,26 @@
 
 ### 🚀 Featured Projects
 
-#### [Trix - AI-Powered Text Editor](https://trix-ai.vercel.app/)
+#### [Trix - AI-Powered Text Editor](https://github.com/Ashm1t/Trix)
 A modern text editor enhanced with AI capabilities, featuring real-time suggestions, smart formatting, and intelligent content generation. Built with React and OpenAI's GPT models.
 
-![Trix Screenshot](path/to/trix-screenshot.png)
+<img src="TRIX.png" alt="Trix Screenshot" width="600"/>
 
 #### [Abstract Image Generator](https://abstract-image-generator.vercel.app/)
 An AI-powered tool that creates unique abstract art using style-based generation. Features multiple art styles including Balanced Neutral, Warm Earth, Cool Flow, and more. Generate beautiful artwork in ~2 seconds! ⚡
 
-![Abstract Image Generator Screenshot](path/to/abstract-generator-screenshot.png)
-
-### 📊 Kaggle Notebooks
-
-- [Machine Learning Model Comparison](https://www.kaggle.com/ashm1t) - Comprehensive analysis of different ML models
-- [Data Visualization Techniques](https://www.kaggle.com/ashm1t) - Advanced visualization methods for data analysis
-- [Natural Language Processing Projects](https://www.kaggle.com/ashm1t) - NLP implementations and experiments
-
-### 📌 Pinned Projects
+<img src="Abstract Art Generator.png" alt="Abstract Image Generator Screenshot" width="600"/>
 
 #### [Portfolio Website](https://ashm1t.github.io)
 A modern, responsive portfolio showcasing my work and skills. Built with React and modern web technologies.
 
-#### [Abstract Image Generator](https://abstract-image-generator.vercel.app/)
-An AI-powered tool that creates unique abstract art using style-based generation. Features multiple art styles including Balanced Neutral, Warm Earth, Cool Flow, and more. Generate beautiful artwork in ~2 seconds! ⚡
+### 📊 Kaggle Notebooks
 
-#### [Agent May Cry - Research Paper](https://ijirt.org/publishedpaper/IJIRT179239_PAPER.pdf)
-Published research paper exploring innovative approaches in AI/ML. Contributing to the academic community with cutting-edge research.
-
-#### [Spaceship Titanic - Kaggle Competition](https://github.com/Ashm1t/Spacetanic)
+#### [Spaceship Titanic](https://github.com/Ashm1t/Spacetanic)
 A machine learning solution for the Spaceship Titanic Kaggle competition, achieving a score of 0.70002. Features advanced feature engineering with 57 engineered features and comprehensive analysis of passenger transportation patterns.
 
 #### [Titanic - Advanced ML Analysis](https://github.com/Ashm1t/Titanic)
 An in-depth machine learning analysis of the Titanic dataset, featuring ensemble methods, social dynamics analysis, and advanced feature engineering. Includes both Random Forest and Gradient Boosting models with cross-validation accuracy of ~83%.
-
-#### [Trix](https://github.com/Ashm1t/Trix)
-A modern web application showcasing innovative features and technologies. Built with cutting-edge web development practices.
-
----
 
 ##### Languages I use
 
