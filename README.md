@@ -9,12 +9,12 @@
 - 💪🏼 Future Goals: Contribute to open source and build impactful projects
 - 🎯 Always eager to learn and create innovative solutions
 
----
+
 
 ### 🚀 Featured Projects
 
-#### [Trix - AI-Powered Text Editor](https://github.com/Ashm1t/Trix)
-A modern text editor enhanced with AI capabilities, featuring real-time suggestions, smart formatting, and intelligent content generation. Built with React and OpenAI's GPT models.
+#### [Trix - AI-Powered personal assistant](https://github.com/Ashm1t/Trix)
+A Chatbot utilizing blazing fast Groq API to simulate GLaDOS personality as an AI assistant. 
 
 <img src="TRIX.png" alt="Trix Screenshot" width="600"/>
 
