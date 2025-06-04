@@ -10,7 +10,6 @@
 - 🎯 Always eager to learn and create innovative solutions
 
 
-
 ### 🚀 Featured Projects
 
 #### [Trix - AI-Powered personal assistant](https://github.com/Ashm1t/Trix)
